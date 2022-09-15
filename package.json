@@ -1,0 +1,17 @@
+{
+  "name": "create-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@googleapis/docs": "^1.0.1",
+    "express": "^4.18.1",
+    "googleapis": "^105.0.0",
+    "xlsx": "^0.18.5"
+  }
+}
